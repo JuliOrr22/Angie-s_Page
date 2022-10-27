@@ -1,7 +1,22 @@
 .contenedor{
-    background-color: #EF9F9F;
-    color: #FFF2F2;
+    background-color: #FAD4D4;
 }
 body{
-    background-color: #F47C7C;
+    background-color: #FFF2F2;
+}
+.logo{
+    justify-content: center;
+}
+.navmenu{
+    background-color: #EF9F9F;
+}
+nav a{
+    color: #FFF2F2;
+}
+.cont_Angie{
+    margin: 2em;
+    border: 2px solid #EF9F9F;
+    border-radius: 3em;
+    padding: 1em;
+    
 }
