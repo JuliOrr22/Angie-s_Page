@@ -20,3 +20,18 @@ nav a{
     padding: 1em;
     
 }
+.footer{
+    background-color: #F47C7C;
+}
+.logosPequeños img{
+    width: 2em;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.logosPequeños{
+    background-color: #F47C7C;
+    border-radius: 1em;
+    padding: 1em;
+    
+
+}
